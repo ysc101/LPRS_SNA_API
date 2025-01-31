@@ -1,0 +1,19 @@
+[
+    {
+        "rddassetCode": "TSTHA0124250000054",
+        "activityCode": "WON-RWS-SATARA-001",
+        "gpcode": "908",
+        "dpancode": "3",
+        "type": "A",
+        "category": "Solar",
+        "gisdata": "[{\"spatialReference\": {\"wkid\": 4326 },\"paths\": [[[73.7661631, 18.5635396],[73.7662151, 18.5635928]]]}]",
+        "otherGisData": "Length: 1000m, Width :30m etc.",
+        "uploadedDate": "2025-01-07T13:00:21.643",
+        "zillaParishad": "Thane",
+        "taluka": "BHIWANDI",
+        "gramPanchayat": "Asnoli",
+        "village": "Asnoli",
+        "workName": "Asnoli to Kalyan Road and Gutter Pipeline",
+        "typeofWork": "Sabhagruha/Samaj Bhavan"
+    }
+]

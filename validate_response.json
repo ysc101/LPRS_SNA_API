@@ -1,7 +1,7 @@
 {
     "uniqueID": "10001",
     "projectId": "01",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiTUFLRVIxQVNLIiwiZXhwIjoxNzM4MjQzODMxLCJpc3MiOiJodHRwczovL2xvY2FsaG9zdDo0NDMwMC8iLCJhdWQiOiJodHRwczovL2xvY2FsaG9zdDo0NDMwMC8ifQ.4O2qfjUVqhTyNcZ3z4vXHfgzf39MRXXu4L050iNGx1I",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiTUFLRVIxQVNLIiwiZXhwIjoxNzM4NDE0MjcwLCJpc3MiOiJodHRwczovL2xvY2FsaG9zdDo0NDMwMC8iLCJhdWQiOiJodHRwczovL2xvY2FsaG9zdDo0NDMwMC8ifQ.40ZFTFaLrbxMO39Mn06dUCQYBF5_6nybP6YmL06JUFc",
     "statusCode": 101,
     "statusDesc": "Provided Token is Correct"
 }

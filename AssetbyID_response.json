@@ -1,0 +1,11 @@
+[
+    {
+        "gisdata": "[{\"spatialReference\":{\"wkid\":4326},\"paths\":[[[74.01330544311708,15.97433221674104],[74.0149362265254,15.97294318691188],[74.01303364582779,15.973066962247696],[74.01330544311708,15.97433221674104]]]}]",
+        "otherGisData": "Other GIS data Kareems kitchen",
+        "type": "P",
+        "category": "Path",
+        "uploadedDate": "2025-01-27T15:30:00.453",
+        "progressStatus": 1,
+        "imageURL": []
+    }
+]
